@@ -1,6 +1,6 @@
-# fmartinou hass.io add-ons repository
+# aure-olivier hass.io add-ons repository
 
-Fmartinou hass.io add-ons repository.
+Forked from Fmartinou, in order to test fmartinou/tydom2mqtt:feature__183 custom docker image (which contains https://github.com/fmartinou/tydom2mqtt/pull/197)
 
 ![](https://github.com/fmartinou/tydom2mqtt/raw/master/docs/tydom2mqtt_logo_250.png)
 
