@@ -2,6 +2,8 @@
 
 Forked from Fmartinou, in order to test fmartinou/tydom2mqtt:feature__183 custom docker image (which contains https://github.com/fmartinou/tydom2mqtt/pull/197)
 
+=> Install repository for Home Assistant: https://github.com/aure-olivier/hassio-addons.git
+
 ![](https://github.com/fmartinou/tydom2mqtt/raw/master/docs/tydom2mqtt_logo_250.png)
 
 ![](https://github.com/fmartinou/teleinfo2mqtt/raw/master/docs/teleinfo2mqtt-logo-250.png)
