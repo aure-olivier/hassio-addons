@@ -1,11 +1,11 @@
 ---
 
 ########## GENERAL SETTINGS ######################################################################################################
-name: tydom2mqtt
+name: aotydom2mqtt
 # Image is a custom one from branch https://github.com/fmartinou/tydom2mqtt/tree/feature/%23183
 image: fmartinou/tydom2mqtt:feature__183
 version: 3.5.2
-slug: tydom2mqtt
+slug: aotydom2mqtt
 description: Deltadore Tydom to MQTT Bridge
 arch:
   - armhf
